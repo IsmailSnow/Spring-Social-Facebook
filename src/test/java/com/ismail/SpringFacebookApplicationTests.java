@@ -1,4 +1,4 @@
-package com.spring.social.api;
+package com.ismail;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;

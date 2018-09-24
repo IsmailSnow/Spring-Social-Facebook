@@ -1,4 +1,4 @@
-package com.javatechie.social.api;
+package com.ismail;
 
 import org.springframework.social.connect.ConnectionRepository;
 import org.springframework.social.facebook.api.Facebook;

@@ -1,4 +1,4 @@
-package com.javatechie.social.api;
+package com.ismail;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
