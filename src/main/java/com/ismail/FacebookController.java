@@ -18,6 +18,7 @@ public class FacebookController {
 	private ConnectionRepository connectionRepository;
 
 	public FacebookController(Facebook facebook, ConnectionRepository connectionRepository) {
+	
 		this.facebook = facebook;
 		this.connectionRepository = connectionRepository;
 	}
